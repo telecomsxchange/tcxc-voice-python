@@ -1,6 +1,6 @@
 # tcxc-voice-python
 
-Make Outbound voice Calls via TELECOMSXCHANGE on specified carriers or termination end points of your choice including Viber right from your Python Script.
+Make Outbound voice Calls via TELECOMSXCHANGE on specified carriers or termination end points of your choice including Viber right from your Python script.
 
 TCXC Voice API benefits for DEVELOPERS:
 
@@ -9,7 +9,7 @@ TCXC Voice API benefits for DEVELOPERS:
  Choose the carrier that will terminate your application to phone calls
  Choose best quality and switch back and forth between them easily
  Integrate voice communications to your custom CRM or Sales force or Helpdesk
- Up to 50% cost savings on outbound calls compared to twilio and nexmo , PLIVO ...
+ Up to 50% cost savings on outbound calls compared to twilio and Nexmo , PLIVO, sinch...
  
  P.S: You must have already signed up for a telecomsxchange.com buyer account to use this API.
  

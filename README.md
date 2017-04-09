@@ -1,4 +1,4 @@
-# tcxc-voice-python
+# TCXC-voice-API-python-sample
 
 Make Outbound voice Calls via TELECOMSXCHANGE on specified carriers or termination end points of your choice including Viber right from your Python script.
 
